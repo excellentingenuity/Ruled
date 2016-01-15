@@ -31,5 +31,5 @@ The only current Precedence Operator are parentheses ``` () ```.
 
 ### Example
 ```
-(RuleName AND RuleName) OR RuleName
+"( RuleName AND RuleName ) OR RuleName"
 ```
