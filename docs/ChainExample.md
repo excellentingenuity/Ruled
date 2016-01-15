@@ -30,9 +30,9 @@ A Chain is a group of Rules and their required parameters.
         ]
       ]
     ],
-    'expression' => '(RuleName AND RuleName) OR RuleName'
+    'expression' => '( RuleName AND RuleName ) OR RuleName'
   }
 ```
 
 ## Expression Description
-The expression will conform to a domain language definition where the entities are separated by a single whitespace. An entity can be a rule a logical connector or a parentheses.
+The expression will conform to a domain language definition where the entities are separated by a single whitespace. An entity can be a rule a logical connector or a parentheses. The expression is terminated by the closing of the string. The expression shall be of type String.

@@ -2,6 +2,7 @@
 - Version 1.0
 - Updated 15 JAN 16
 
+
 ## Rules
 Rules shall be all Camel Cased to provide readability.
 
